@@ -10,12 +10,13 @@
 
 ##Estrutura do Repositório
 ```
+html-css-review/
 ├── README.md
 ├── portfolio/          ← projeto principal (cresce ao longo dos 10 dias)
-│   ├── index.html
+│   ├── index.html      ← dia-01 - estrutura html semantica do portfolio
 │   └── style.css
 └── exercicios/         ← exercícios diários
-    ├── dia-01/
+    ├── dia-01/         ← html semantico - receita culinária
     ├── dia-02/
     ├── dia-03/
     ├── dia-04/

@@ -17,8 +17,8 @@ html-css-review/
 │   └── style.css
 └── exercicios/         ← exercícios diários
     ├── dia-01/         ← html semantico - receita culinária
-    ├── dia-02/
-    ├── dia-03/
+    ├── dia-02/         ← css tipografia, layout, 
+    ├── dia-03/         
     ├── dia-04/
     ├── dia-05/
     ├── dia-06/

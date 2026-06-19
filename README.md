@@ -16,8 +16,8 @@ html-css-review/
 │   ├── index.html      ← dia-01 - estrutura html semantica do portfolio
 │   └── style.css
 └── exercicios/         ← exercícios diários
-    ├── dia-01/         ← html semantico - receita culinária
-    ├── dia-02/         ← css tipografia, layout, 
+    ├── dia-01/         ← html semantico - página de receita culinária
+    ├── dia-02/         ← css - estilização - tipografia e layout da página
     ├── dia-03/         
     ├── dia-04/
     ├── dia-05/
